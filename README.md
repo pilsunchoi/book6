@@ -1,4 +1,4 @@
-# 인과 추론 — 노벨상 수상 강의 읽기 (book6)
+# 인과 추론 — 노벨상 수상 강의 해설 (book6)
 
 책 사이트: https://pilsunchoi.github.io/book6/
 
