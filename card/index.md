@@ -39,4 +39,4 @@
 
 절마다 저자가 그 절의 핵심을 설명하는 강의영상이 있다. 수상자의 강의 녹화가 아니다.
 
-- [1\. 경제학자들은 왜 서로의 실증을 믿지 않았나 — 숫자만 내놓는 블랙박스](https://www.youtube.com/watch?v=Ulhjm8axxqM)
+- [1\. 경제학자들은 왜 서로의 실증을 믿지 않았나 — 숫자만 내놓는 블랙박스](https://www.youtube.com/watch?v=2wQMwBeBj2M)
