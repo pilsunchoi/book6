@@ -167,7 +167,7 @@ Card가 대학원생이자 젊은 교수로 있던 프린스턴에서는 이 문
 > - 학술지 논문 9편 가운데 2편만 똑같이 재현됐다(Dewald, Thursby, and Anderson, 1986).
 > - Card와 프린스턴의 대답은 더 정교한 블랙박스가 아니라 A/B 테스트처럼 속이 보이는 단순한 비교, 곧 연구 설계였다.
 
-:::{admonition} 이 절의 강의영상
+:::{admonition} 이 절의 해설영상
 :class: video-box
-저자가 이 절의 핵심을 설명하는 영상이다(수상자의 강연 녹화가 아니다). [유튜브에서 보기](https://www.youtube.com/watch?v=2wQMwBeBj2M)
+저자가 이 절의 핵심을 해설하는 영상이다. [유튜브에서 보기](https://www.youtube.com/watch?v=2wQMwBeBj2M)
 :::
