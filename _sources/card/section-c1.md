@@ -169,5 +169,5 @@ Card가 대학원생이자 젊은 교수로 있던 프린스턴에서는 이 문
 
 :::{admonition} 이 절의 해설영상
 :class: video-box
-저자가 이 절의 핵심을 해설하는 영상이다. [유튜브에서 보기](https://www.youtube.com/watch?v=jA0Sj8bGVoQ)
+저자가 이 절의 핵심을 해설하는 영상이다. [유튜브에서 보기](https://www.youtube.com/watch?v=i-1SyrmQwAc)
 :::
