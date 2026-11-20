@@ -5,3 +5,4 @@ chapters:
   - file: card/index
     sections:
       - file: card/section-c1
+      - file: card/references
