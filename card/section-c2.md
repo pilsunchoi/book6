@@ -149,5 +149,5 @@ LaLonde의 박사 논문을 지도한 사람이 Ashenfelter와 Card였다는 점
 
 :::{admonition} 이 절의 해설영상
 :class: video-box
-저자가 이 절의 핵심을 해설하는 영상이다. [유튜브에서 보기](https://www.youtube.com/watch?v=Pv1dn3MKSME)
+이 절의 핵심을 해설하는 영상이다. [유튜브에서 보기](https://www.youtube.com/watch?v=Pv1dn3MKSME)
 :::
